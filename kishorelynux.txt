@@ -1,0 +1,51 @@
+lynux commands
+24/02/2020
+
+1.date command:
+it is responsible to display system date and time.
+if u want to display only DATE then u have to follow this command
+date "+%m-%d-%y"  or else date"+%d"
+
+if u want to display only TIME then you have to follow this command
+date "+%h-%s-%m"
+
+if u want to check CURRENT DAY then u have to use this command
+date"+%A" or else date "+ TODAY IS:%A"
+
+if u want to check CURRENT YEAR then u have to use this command
+date "+%Y"
+
+if u want to check CURRENT DAY OF THE WEEK then u have to follow this
+date "+%u"
+
+if you want to know more about date command then you should use
+date--help
+
+2.REMOVE DIRECTORY
+it is mainly used to remove directories 
+it can able to delete only empty directories but if you save any files inside of this directories then you cannot able to remove this using this RMDIR command.
+
+if u want to create directories u have to  use this command
+mkdir projectame
+if u want to check what are directories on the platform then u should use 
+ls (listing commands)
+if u want to remove directories with having files then u should use command
+rm -r projectname 
+
+3.REMOVE COMMAND
+it is used to remove files from the system.
+
+if u want to CREATE a file you should use command like
+vi filename.txt or touch filename.txt
+
+for checking files on your platform u should use
+ls(listing commands)
+
+if u want to create a directories u should use command like
+MKDIR directoryname
+
+if u want to remove directories u should use command like
+RM directoryname
+
+if the directory having any files then u should use command to remove directories
+rm -r directoryname
