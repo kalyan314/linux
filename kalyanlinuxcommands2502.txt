@@ -1,0 +1,17 @@
+CAT:
+
+cat filename		//to print the content in the single file
+cat filename1 filename2	//to print the contents in both files
+cat -s filename		//to remove extra blank lines in the file
+cat -n filename		//to provide numbering to the lines in the file
+cat -T filename		//to indicate tab spaces as ^I in the file
+
+FIND:
+
+find . -print				//it prints the files in the present directory
+find . name ".txt" -print		//it finds all .txt files in the current directory, you can replace "." with whatever path you want
+find . -iname ".txt" -print		//it finds all .txt files in the current directory irrespective of thier cases.
+find . ! -name ".txt" -print		//it prints all the files expect the files which ends with .txt extensions in the current directory
+find . -type f -size +2G		//shows all the files who's  size is more than 2gb
+find . -type f -name ".txt" -delete	//deletes all the files with .txt extensions.
+	
