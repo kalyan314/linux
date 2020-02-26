@@ -1,0 +1,20 @@
+commands:
+MOVE :
+it is used to move files through command line.
+we can use command to rename the file.
+for ex:
+if u want to rename the file to TEXT  to FILE  u need to use command like
+MV TEXT FILE
+
+CAL:
+cal means calender
+if u press cal easily u can able to see calender
+if u press cal 5 2021 .... it will display may in 2021 calender
+
+
+WHO:
+it is using to use who are using currently sharing screen.
+if u want to know use who are sharing you just type
+who
+if u want to show who u are u just need to type
+who am i
