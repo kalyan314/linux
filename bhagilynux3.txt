@@ -1,0 +1,14 @@
+              FIND COMMAND
+
+   the find command is used to locate/search files.you can search for files by name,owner,group,type,permissions.
+
+SYNTAX: FIND<PATH> <SEARCH CRITERIA> <ACTION>
+
+# find [it will display the all the files and directories along with the pathnames]
+# find . -name (filename) [this command will search the file ]
+# find . -name "r*.txt" [this command will search the starting letter 'r' with all .txt files]
+# find . -name "*.txt" [this command will search the all .txt files]
+# find . -type d -name (dir) [this command will search the directory]
+# find . -iname (filename) [ignore the cases]
+# find . -type f -perm 0777 -print [this command will give the permissions to file]
+# 
