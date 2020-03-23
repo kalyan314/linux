@@ -1,0 +1,30 @@
+               #grep#
+
+grep-stand for global regular expression
+
+#grep command basically user for searching the contents of the file
+
+syntax  grep[options]pattren[file..]
+
+#grep -i (filename)  [ignore the cases]
+
+#grep -n (filename)  [it will print no of lines in that file indicated with numbers]
+
+#grep --colour 'b' (filename) [it will shows the b letter in that file in a differant colour]
+
+#grep bhagi* (filename)  [it will print all starting with bhagi name lines]
+
+#grep -v bhagi (filename)  [it will print except the bhagi name line]
+
+#grep -l bhagi  [it will print the filename]
+
+#grep -c bhagi (filename) [it will print the no of lines with bhagi name]
+
+#grep -w bhagi (filename) [it will print the complete word line ]
+
+#grep -A2 (filename)  [it will print the after the two lines]
+
+#grep -B2 (filename) [it will print the before the two lines]
+
+#grep -C2 (filename) [it will print the before and after two lines]
+ 
