@@ -1,0 +1,89 @@
+                     ##python programs##
+
+
+1.write a program to print "hello world"
+
+n="hello world"
+print(n)
+
+output:hello world
+
+
+
+2.write a program to display calendar
+
+import calendar
+yy=2020
+mm=3
+print(calendar.month(yy,mm))
+
+output:display the 3rd month 2020 calendar
+
+
+
+3.write a program of add of two numbers
+
+
+a=10
+b=20
+c=a+b
+print(c)
+
+output:30
+
+
+
+4.write a program to check if a number is odd or even
+
+
+a=int(input("enter the number"))
+if a%2==0:
+     print("even")
+else:
+     print("odd")
+
+
+
+5.write a program to area of square
+
+
+a=int(input("enter the area value:")
+area=a*a
+print("area of square",a)
+
+
+output:
+25
+
+
+
+6.swap of variable
+
+def swap(a,b):
+    temp=a
+    a=b
+    b=temp   
+    print(a,b)
+swap(1,2)
+
+
+output:
+2,1
+
+
+
+7.writw a program of polindram
+
+
+r=bhagi
+s=r[::-1]
+print(s)
+r==s:
+  print("polindram")
+r!=s:
+  print("not polindram")
+
+
+output:
+igahb
+
