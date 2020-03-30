@@ -1,0 +1,6 @@
+1.#ls
+the ls command is one of the basic command it is used to list information about files and directories with in the file system
+2.#ls -l [used for check the long list].
+3.#history [it shows all the commands that you have used in the past and this can help you refer to the old commands you have entered and re-used them in our operations again. 
+4.#clear[this command clears all and gives you a clean window to work on.
+5.#vi[create a new file ]

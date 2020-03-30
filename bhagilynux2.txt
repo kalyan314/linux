@@ -1,0 +1,12 @@
+#echo [echo is used for printing]
+#def  [def command used for show the size,used space,and available space]
+#ping [this command verify that you have network connectvity with another network device]
+#top  [this command will show the real time disply of data relateing to your linux machine]
+#uname[related to some system information regarding to unix]
+      #uname -a [it prints all system information ]
+      #uname -s [it shows kernal name]
+      #uname -r [it prints the kernel release date]
+      #uname -n [it print hostname of the network node]
+      #uname -v [it prints the version of the current kernel]
+      #uname -o [prints the name of the operating system]
+       

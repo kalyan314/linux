@@ -1,0 +1,6 @@
+#pwd [its shows current woeking directory]
+#cat [it is used for create a file]
+#cp  [copy the files]
+#mv  [move the files]
+#mkdir[create new directory]
+rmdir [remove directory]
